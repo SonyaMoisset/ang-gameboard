@@ -1,1 +1,1 @@
-# ang-gameboard
+# Angular Gameboard
